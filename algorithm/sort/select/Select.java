@@ -1,7 +1,5 @@
 package select;
 
-import standard.StandardPrint;
-
 public class Select {
 
     /**

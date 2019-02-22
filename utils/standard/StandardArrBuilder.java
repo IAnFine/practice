@@ -4,7 +4,7 @@ import java.util.Collections;
 
 public class StandardArrBuilder {
 
-    private static int ROUND_SEED = 90;
+    private static int ROUND_SEED = 10;
     private static int[] EMPTY_INTEGER_ARR = new int[0];
 
 

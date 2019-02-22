@@ -10,6 +10,12 @@ public class QuickSort {
         return arr;
     }
 
+    /**
+     * 简单的int类型数据快速排序
+     * @param arr
+     * @param low
+     * @param high
+     */
     private static void quickSort(int[] arr, int low, int high) {
         int start = low;
         int end = high;
